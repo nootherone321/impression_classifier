@@ -1,0 +1,13 @@
+* * * * * Data munging * * * * * 
+
+ABR exam items
+* removed non-pathologic terms
+* separated multi-items terms (coronary artery stenosis and aneurysm --> coronary artery stenosis, coronary artery aneurysm)
+* filled in hierarchical sub-categories with parent label (e.g. hypertrophic, dilated --> hypertrophic cardiomyopathy, dilated cardiomyopathy)
+* separated item(item) groupins (e.g. admixture lesion (bidirectional shunts) --> admixture lesion & bidirectional shunts [synonym])
+* specified on vague items, based on hierarchy ("trauma" multiple times in GI --> "pharyngeal trauma" "esophageal trauma")
+
+
+To do
+* lots of "bucket" categories need filled in:
+** breast - benign & malignant male disease
